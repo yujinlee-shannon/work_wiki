@@ -1,12 +1,14 @@
 # 업무 위키
 
-이 위키는 Slack 채널 `#바이브캐치`의 업무 대화를 바탕으로 프로젝트 맥락을 정리하기 위해 시작했습니다.
+이 위키는 Slack 채널의 업무 대화를 바탕으로 프로젝트 맥락을 정리하기 위해 시작했습니다.
 
 ## 현재 정리 범위
 
-- Slack 채널: `#바이브캐치`
-- 기준 링크: <https://ai-tsv1393.slack.com/archives/C0ACJ4CRV4N>
-- 1차 수집 범위: 최근 메시지 100개와 주요 스레드 일부
+- Slack 채널: `#바이브캐치`, `#aiagent_기획-개발`
+- 기준 링크:
+  - <https://ai-tsv1393.slack.com/archives/C0ACJ4CRV4N>
+  - <https://ai-tsv1393.slack.com/archives/C099HAM7U3C>
+- 1차 수집 범위: 각 채널 최근 메시지 100개와 주요 스레드 일부
 - 정리 기준일: 2026-06-22
 
 ## 빠른 이동
@@ -14,7 +16,11 @@
 - [바이브캐치 개요](projects/vibecatch/index.md)
 - [바이브캐치 결정 사항](projects/vibecatch/decisions.md)
 - [바이브캐치 이슈와 질문](projects/vibecatch/issues.md)
+- [아이노바 개요](projects/inova/index.md)
+- [아이노바 결정 사항](projects/inova/decisions.md)
+- [아이노바 이슈와 질문](projects/inova/issues.md)
 - [2026-06 Slack 정리](slack-digests/2026-06-vibecatch.md)
+- [2026-02~06 아이노바 Slack 정리](slack-digests/2026-02-06-inova.md)
 
 ## 기록 방식
 

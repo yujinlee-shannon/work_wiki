@@ -16,8 +16,15 @@ nav:
       - 결정 사항: projects/vibecatch/decisions.md
       - 이슈와 질문: projects/vibecatch/issues.md
       - 운영 메모: projects/vibecatch/operations.md
+  - 아이노바:
+      - 개요: projects/inova/index.md
+      - 타임라인: projects/inova/timeline.md
+      - 결정 사항: projects/inova/decisions.md
+      - 이슈와 질문: projects/inova/issues.md
+      - 운영 메모: projects/inova/operations.md
   - Slack 정리:
       - 2026-06 바이브캐치: slack-digests/2026-06-vibecatch.md
+      - 2026-02~06 아이노바: slack-digests/2026-02-06-inova.md
   - 운영:
       - 위키 운영 규칙: operations/wiki-maintenance.md
 markdown_extensions:
