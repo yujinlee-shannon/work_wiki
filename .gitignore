@@ -1,4 +1,5 @@
 .venv/
 site/
+.firebase/
 __pycache__/
 .cache/
