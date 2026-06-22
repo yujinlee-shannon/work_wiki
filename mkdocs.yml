@@ -12,6 +12,7 @@ nav:
   - 홈: index.md
   - 바이브캐치:
       - 개요: projects/vibecatch/index.md
+      - 업무 로그: projects/vibecatch/work-log.md
       - 타임라인: projects/vibecatch/timeline.md
       - 결정 사항: projects/vibecatch/decisions.md
       - 이슈와 질문: projects/vibecatch/issues.md

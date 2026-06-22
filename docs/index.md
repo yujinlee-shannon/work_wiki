@@ -8,12 +8,13 @@
 - 기준 링크:
   - <https://ai-tsv1393.slack.com/archives/C0ACJ4CRV4N>
   - <https://ai-tsv1393.slack.com/archives/C099HAM7U3C>
-- 1차 수집 범위: 각 채널 최근 메시지 100개와 주요 스레드 일부
+- 1차 수집 범위: `#바이브캐치` 전체 채널 히스토리, `#aiagent_기획-개발` 최근 메시지 100개와 주요 스레드 일부
 - 정리 기준일: 2026-06-22
 
 ## 빠른 이동
 
 - [바이브캐치 개요](projects/vibecatch/index.md)
+- [바이브캐치 업무 로그](projects/vibecatch/work-log.md)
 - [바이브캐치 결정 사항](projects/vibecatch/decisions.md)
 - [바이브캐치 이슈와 질문](projects/vibecatch/issues.md)
 - [아이노바 개요](projects/inova/index.md)
