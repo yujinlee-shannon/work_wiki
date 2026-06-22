@@ -5,10 +5,13 @@
 ## 현재 정리 범위
 
 - Slack 채널: `#바이브캐치`, `#aiagent_기획-개발`
+- 추가 정리 채널: `#ai비즈솔루션팀`
 - 기준 링크:
   - <https://ai-tsv1393.slack.com/archives/C0ACJ4CRV4N>
   - <https://ai-tsv1393.slack.com/archives/C099HAM7U3C>
+  - <https://ai-tsv1393.slack.com/archives/C09A94B0F88>
 - 1차 수집 범위: `#바이브캐치` 전체 채널 히스토리, `#aiagent_기획-개발` 최근 메시지 100개와 주요 스레드 일부
+- `#ai비즈솔루션팀` 수집 범위: 2026-04-09부터 2026-06-22까지 접근 가능한 메시지와 주요 스레드
 - 정리 기준일: 2026-06-22
 
 ## 빠른 이동
@@ -20,6 +23,7 @@
 - [아이노바 개요](projects/inova/index.md)
 - [아이노바 결정 사항](projects/inova/decisions.md)
 - [아이노바 이슈와 질문](projects/inova/issues.md)
+- [AI비즈솔루션팀 업무 로그](projects/ai-biz-solution/work-log.md)
 - [2026-06 Slack 정리](slack-digests/2026-06-vibecatch.md)
 - [2026-02~06 아이노바 Slack 정리](slack-digests/2026-02-06-inova.md)
 

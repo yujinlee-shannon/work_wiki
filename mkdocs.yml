@@ -24,6 +24,9 @@ nav:
       - 결정 사항: projects/inova/decisions.md
       - 이슈와 질문: projects/inova/issues.md
       - 운영 메모: projects/inova/operations.md
+  - AI비즈솔루션팀:
+      - 개요: projects/ai-biz-solution/index.md
+      - 업무 로그: projects/ai-biz-solution/work-log.md
   - Slack 정리:
       - 2026-06 바이브캐치: slack-digests/2026-06-vibecatch.md
       - 2026-02~06 아이노바: slack-digests/2026-02-06-inova.md
