@@ -1,0 +1,29 @@
+site_name: 업무 위키
+site_description: Slack 대화를 바탕으로 정리한 프로젝트 업무 위키
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+nav:
+  - 홈: index.md
+  - 바이브캐치:
+      - 개요: projects/vibecatch/index.md
+      - 타임라인: projects/vibecatch/timeline.md
+      - 결정 사항: projects/vibecatch/decisions.md
+      - 이슈와 질문: projects/vibecatch/issues.md
+      - 운영 메모: projects/vibecatch/operations.md
+  - Slack 정리:
+      - 2026-06 바이브캐치: slack-digests/2026-06-vibecatch.md
+  - 운영:
+      - 위키 운영 규칙: operations/wiki-maintenance.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
